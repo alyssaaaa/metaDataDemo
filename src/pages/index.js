@@ -14,7 +14,7 @@ const IndexPage = () => (
       <html lang="en" />
     </Helmet>
     <Header siteTitle='MetaData Demo' />
-    <div class="">
+    <div >
       <a href="www.google.com">
         <h1>
           Hi there!

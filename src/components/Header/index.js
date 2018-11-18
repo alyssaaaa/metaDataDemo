@@ -2,8 +2,8 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 const Header = ({ siteTitle }) => (
-  <div class="header">
-    <div class="navMenu">
+  <div className="header">
+    <div className="navMenu">
       <h1 style={{ margin: 0 }}>
         <Link
           to="/"
